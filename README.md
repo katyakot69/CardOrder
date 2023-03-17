@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cw19r84brcchgqbb?svg=true)](https://ci.appveyor.com/project/katyakot69/cardorder-aiajp)
